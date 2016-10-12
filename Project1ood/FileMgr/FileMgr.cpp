@@ -2,10 +2,7 @@
 //  FileMgr.cpp -    Makes call to the FileSystem and DataStore    //
 //			    	classes			        					   //
 //  ver 1.0                                                        //
-//  Language:      Visual C++ 2013                                 //
-//  Platform:      Dell, Windows 8.1                               //
-//  Application:   Scope analysis, OOD Assignment 1, Spring2015    //
-//  Author:		   Ankur Pandey                                    //
+
 /////////////////////////////////////////////////////////////////////
 
 #include "FileMgr.h"
